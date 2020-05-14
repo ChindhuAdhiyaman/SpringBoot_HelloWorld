@@ -10,7 +10,7 @@ public class HelloWorldController {
 
 	@RequestMapping("/")
 	public String sayHello() {
-		return "Hi Welcome to Spring Boot!!!";
+		return "Hi Welcome to Spring Boot Test!!!";
 	}
 
 }
